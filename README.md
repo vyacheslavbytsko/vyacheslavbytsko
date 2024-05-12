@@ -13,4 +13,4 @@
 
 My name is Vyacheslav. I'm 18 years old. I study at Higher School of Economics.
 
-You can look at my projects [here](https://github.com/vmbytsko/vmbytsko/blob/main/projects.md).
+You can look at my resume [here](https://github.com/vmbytsko/vmbytsko/blob/main/resumes/Резюме.pdf) or at my projects [here](https://github.com/vmbytsko/vmbytsko/blob/main/projects.md).
