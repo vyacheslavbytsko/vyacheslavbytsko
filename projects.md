@@ -2,18 +2,12 @@
 
 ## Python
 
-- [privsticksbot](https://github.com/vmbytsko/privsticksbot) - Private stickers bot written on Python.
+- [Private-Stickers-Telegram-Bot](https://github.com/vyacheslavbytsko/Private-Stickers-Telegram-Bot) - Private stickers bot written on Python.
 
-Full list [here](https://github.com/vmbytsko/vmbytsko/blob/main/py-projects.md).
+Full list [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/py-projects.md).
 
 ## C/C++
 
-- [hse-miem-c-course](https://github.com/vmbytsko/hse-miem-c-course) - MIEM C and C++ homework.
+- [hse-miem-c-course](https://github.com/vyacheslavbytsko/hse-miem-c-course) - MIEM C and C++ homework.
 
-Full list [here](https://github.com/vmbytsko/vmbytsko/blob/main/c-projects.md).
-
-## Flutter
-
-- [geometryapp](https://github.com/vmbytsko/geometryapp) - Flutter app aiming to solve geometrical problems.
-
-Full list [here](https://github.com/vmbytsko/vmbytsko/blob/main/flutter-projects.md).
+Full list [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/c-projects.md).
