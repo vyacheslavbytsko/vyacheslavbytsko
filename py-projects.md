@@ -1,5 +1,3 @@
 # Python projects
 
-- [privsticksbot](https://github.com/vmbytsko/privsticksbot) - Private stickers bot written on Python.
-
-- [homeet-fallschool](https://github.com/vmbytsko/homeet-fallschool) - Homeet fall school homework repository.
+- [Private-Stickers-Telegram-Bot](https://github.com/vyacheslavbytsko/Private-Stickers-Telegram-Bot) - Private stickers bot written on Python.
