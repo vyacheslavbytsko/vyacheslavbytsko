@@ -11,6 +11,6 @@
 <h1>Hello!</a> 
 <img src="https://github.com/vyacheslavbytsko/vyacheslavbytsko/raw/main/images/Hi.gif" height="32"/></h1>
 
-My name is Vyacheslav. I'm 18 years old. I study at Higher School of Economics.
+My name is Vyacheslav. I'm 19 years old. I study at Higher School of Economics.
 
 You can look at my resume [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/resumes/Резюме.pdf) or at my projects [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/projects.md).
