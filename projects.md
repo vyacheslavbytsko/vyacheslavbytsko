@@ -1,13 +1,21 @@
 # My projects
 
-## Python
+## Telegram Bots/MiniApps
 
-- [Private-Stickers-Telegram-Bot](https://github.com/vyacheslavbytsko/Private-Stickers-Telegram-Bot) - Private stickers bot written on Python.
+- [Private-Stickers-Telegram-Bot](https://github.com/vyacheslavbytsko/Private-Stickers-Telegram-Bot) - Telegram bot to allow creation of private stickerpacks. Stack: [python-telegram-bot](https://docs.python-telegram-bot.org/en/stable/)
 
-Full list [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/py-projects.md).
+- [UnioNetwork-Telegram-Bot](https://github.com/vyacheslavbytsko/UnioNetwork-Telegram-Bot)
 
-## C/C++
+- [BeFit-Telegram-MiniApp](https://github.com/vyacheslavbytsko/BeFit-Telegram-MiniApp)
 
-- [hse-miem-c-course](https://github.com/vyacheslavbytsko/hse-miem-c-course) - MIEM C and C++ homework.
+- [HSE-Extra-Events-Telegram-Bot](https://github.com/vyacheslavbytsko/HSE-Extra-Events-Telegram-Bot)
 
-Full list [here](https://github.com/vyacheslavbytsko/vyacheslavbytsko/blob/main/c-projects.md).
+- [Event-Management-Telegram-Bot](https://github.com/vyacheslavbytsko/Event-Management-Telegram-Bot)
+
+[//]: # (## Flutter projects)
+
+[//]: # (- https://github.com/vyacheslavbytsko/Geometry-App - Flutter app aiming to solve geometrical problems.)
+
+## Homework
+
+- [HSE-MIEM-C-Course](https://github.com/vyacheslavbytsko/HSE-MIEM-C-Course) - MIEM C and C++ homework.
