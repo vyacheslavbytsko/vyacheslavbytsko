@@ -4,7 +4,7 @@
 
 - [Private-Stickers-Telegram-Bot](https://github.com/vyacheslavbytsko/Private-Stickers-Telegram-Bot) - Telegram bot to allow creation of private stickerpacks. Stack: [python-telegram-bot](https://docs.python-telegram-bot.org/en/stable/)
 
-- [UnioNetwork-Telegram-Bot](https://github.com/vyacheslavbytsko/UnioNetwork-Telegram-Bot)
+- [UnioNetwork-Telegram-Bot](https://github.com/vyacheslavbytsko/UnioNetwork-Telegram-Bot) - Telegram bot that connects businesses with creators, lets them match on projects, and automates reminders, payments, and admin tooling. Stack: [python-telegram-bot](https://docs.python-telegram-bot.org/en/stable/), SQLAlchemy, YooKassa, Docker
 
 - [BeFit-Telegram-MiniApp](https://github.com/vyacheslavbytsko/BeFit-Telegram-MiniApp)
 
